@@ -1,17 +1,16 @@
-# Welcome to MkDoc
+# 欢迎来到zxbvmklop的代码空间！
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
-## Commands
+## 还有很多东西没有做好！
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+* `藏书阁` - 计划中！
+* `论文集` - 正在搬运！
+* `日常生活` 计划中！
+* `课堂笔记` 可能会做！
 
-## Project layout
+## 未来计划！
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+   * 想做一个文献的检索网站！
+    （感觉会很难）
+   * 分享一些书评or影评？（计划中！
+        ...       
