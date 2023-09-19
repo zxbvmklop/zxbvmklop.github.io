@@ -34,8 +34,8 @@ theme:
     - navigation.indexes #启用节索引页后，可以将文档直接附加到节
     - search.share #搜索分享按钮
   language: zh # 一些提示性的文字会变成中文
-  logo: begin/begin.jpg
-  favicon: begin/begin.jpg
+  logo: begin/begin.png
+  favicon: begin/begin.png
 
   icon: 
     repo: fontawesome/brands/github #右上角图标
