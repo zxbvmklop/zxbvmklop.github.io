@@ -9,14 +9,14 @@ theme:
     #primary: blue grey
 
     - scheme: default # 日间模式
-      primary: default # 上方的
-      accent: cyan # 链接等可交互元件的高亮色
+      primary: indigo # 上方的
+      accent: amber # 链接等可交互元件的高亮色
       toggle:
         icon: material/weather-night # 图标
         name: 切换至夜间模式 # 鼠标悬浮提示
     - scheme: slate # 夜间模式
       primary: black 
-      accent: cyan
+      accent: teal
       toggle:
         icon: material/weather-sunny
         name: 切换至日间模式
@@ -34,7 +34,8 @@ theme:
     - navigation.indexes #启用节索引页后，可以将文档直接附加到节
     - search.share #搜索分享按钮
   language: zh # 一些提示性的文字会变成中文
-
+  logo: begin/begin.jpg
+  favicon: begin/begin.jpg
 
   icon: 
     repo: fontawesome/brands/github #右上角图标
@@ -92,6 +93,9 @@ plugins:
       lang:
         - en
         - ja
+      separator: '[\s\u200b\-]'
+
+
 
 
 markdown_extensions:
