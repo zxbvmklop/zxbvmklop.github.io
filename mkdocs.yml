@@ -66,8 +66,7 @@ extra:
       link: https://space.bilibili.com/26687067?spm_id_from=333.1007.0.0
     - icon: fontawesome/solid/paper-plane
       link: mailto:<zxbvmklop@hotmail.com> #联系方式
-  disqus: anything
-template: integrations/disqus.html
+
 
 
 
