@@ -1,3 +1,4 @@
+
 #[Info]
 site_name: zxbvmklop的代码空间！
 site_url: https://zxbvmklop.github.io
@@ -36,7 +37,7 @@ theme:
   language: zh # 一些提示性的文字会变成中文
   logo: logo.png
   favicon: assets/favicon.png
- 
+  custom_dir: overrides # 上面两行都是以前就有的，把最后一行加进去，注意是theme下的子项
 
   icon: 
     repo: fontawesome/brands/github #右上角图标
