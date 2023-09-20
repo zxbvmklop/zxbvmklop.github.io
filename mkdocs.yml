@@ -49,6 +49,9 @@ repo_name: zxbvmklop.github.io # 右上角的名字
 nav: 
   - 首页:
     - 欢迎你！: index.md
+  - 更新: 
+    - update/index.md
+    - 2023.9.20更新内容: update/update23.9.20.md  
 
 
 
