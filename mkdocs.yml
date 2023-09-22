@@ -33,7 +33,7 @@ theme:
     - navigation.expand # 打开Tab时左侧目录全部展开
     - navigation.indexes #启用节索引页后，可以将文档直接附加到节
     - search.share #搜索分享按钮
-    - navigation.path
+    - navigation.tabs
   language: zh # 一些提示性的文字会变成中文
   logo: logo.png
   favicon: assets/favicon.png
@@ -47,13 +47,11 @@ repo_name: zxbvmklop.github.io # 右上角的名字
 
 # [Navigtion]
 nav:
-  - 主页: # 主页/
+  - 主页: 
     - index.md
-    - 最近更新: 
+    - 更新:  
       - update/index.md
       - 2023.9.20更新: update/update23.9.20.md
-
-
 
 
 
