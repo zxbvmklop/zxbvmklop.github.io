@@ -25,7 +25,6 @@ theme:
     - navigation.instant #- header.autohide  #自动隐藏
     #- announce.dismiss #呈现可标记为由用户读取的临时公告，可以包含一个用于取消当前公告的按钮
     - navigation.tracking #地址栏中的 URL 将自动更新为在目录中突出显示的活动锚点
-    - navigation.tabs #顶级部分将呈现在上面视口标题下方的菜单层中，但在移动设备上保持原样
     - navigation.tabs.sticky  #启用粘性选项卡后，导航选项卡将锁定在标题下方，并在向下滚动时始终保持可见
     - navigation.sections #启用部分后，顶级部分在边栏中呈现为1220px以上视口的组，但在移动设备上保持原样
     - navigation.top # 返回顶部的按钮 在上滑时出现
@@ -34,6 +33,7 @@ theme:
     - navigation.expand # 打开Tab时左侧目录全部展开
     - navigation.indexes #启用节索引页后，可以将文档直接附加到节
     - search.share #搜索分享按钮
+    - navigation.path
   language: zh # 一些提示性的文字会变成中文
   logo: logo.png
   favicon: assets/favicon.png
@@ -46,12 +46,13 @@ repo_url: https://github.com/zxbvmklop/zxbvmklop.github.io # 右上角点击跳�
 repo_name: zxbvmklop.github.io # 右上角的名字
 
 # [Navigtion]
-nav: 
-  - 首页:
-    - 欢迎你！: index.md
-  - 更新: 
-    - update/index.md
-    - 2023.9.20更新内容: update/update23.9.20.md  
+nav:
+  - 主页: # 主页/
+    - index.md
+    - 最近更新: 
+      - update/index.md
+      - 2023.9.20更新: update/update23.9.20.md
+
 
 
 
