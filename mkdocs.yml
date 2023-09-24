@@ -38,6 +38,9 @@ theme:
   logo: logo.png
   favicon: assets/favicon.png
   custom_dir: overrides # 上面两行都是以前就有的，把最后一行加进去，注意是theme下的子项
+  font:
+    text: Noto Serif SC # Roboto
+    code: Roboto Mono
 
   icon: 
     repo: fontawesome/brands/github #右上角图标
