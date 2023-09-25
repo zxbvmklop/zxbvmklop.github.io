@@ -36,7 +36,7 @@ theme:
     - navigation.tabs
   language: zh # 一些提示性的文字会变成中文
   logo: logo.png
-  favicon: assets/favicon.png
+  favicon: favicon.png
   custom_dir: overrides # 上面两行都是以前就有的，把最后一行加进去，注意是theme下的子项
   font:
     text: Noto Serif SC # Roboto
