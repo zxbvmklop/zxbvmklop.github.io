@@ -11,7 +11,9 @@ statistics: true
 
     <font size=3>`论文集` 准备搬运上来！</font>
 
-    <font size=3> `生活记录` 准备写！</font>
+    <font size=3> `生活记录` 准备写！
+    
+    </font><font size=3> `诗词集` 准备写！</font>
 
 !!! success "近期更新！"
     <font size=3>- [更新版块](update/index.md) - 持续更新！</font>
@@ -32,6 +34,6 @@ statistics: true
     <font size=3><center>总字数：{{words}} </center></font>
 
 ???+ Warning "<font size=3>施工中！</font>" 
-    <font size=4><center>其他版块还在施工中！</center></font>
-    <font size=4><center>请耐心等待！</center></font>
+    <font size=3><center>其他版块还在施工中！</center></font>
+    <font size=3><center>请耐心等待！</center></font>
 
