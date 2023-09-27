@@ -30,38 +30,20 @@ theme:
       primary: blue grey
       accent: yellow
 
-    # Palette toggle for automatic mode
-    - media: "(prefers-color-scheme)"
-      toggle:
-        icon: material/brightness-auto
-        name: Switch to light mode
-
-    # Palette toggle for light mode
-    - media: "(prefers-color-scheme: light)"
-      scheme: default 
-      toggle:
-        icon: material/brightness-7
-        name: Switch to dark mode
-
-    # Palette toggle for dark mode
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      toggle:
-        icon: material/brightness-4
-        name: Switch to system preference
-
-  ##  - scheme: default # 日间模式
-  ##    primary: default # 上方的
+ ##    primary: default # 上方的
   ##    accent: default
-  ##    toggle:
-  ##     icon: material/weather-night # 图标
-  ##     name: 切换至夜间模式 # 鼠标悬浮提示
-  ##  - scheme: slate # 夜间模式
-  ##    primary: black 
-  ##    accent: teal
-  ##    toggle:
-  ##     icon: material/weather-sunny
-  ##     name: 切换至日间模式
+    - scheme: default
+      primary: default
+      accent: default
+      toggle:
+       icon: material/weather-night # 图标
+       name: 切换至夜间模式 # 鼠标悬浮提示
+    - scheme: slate # 夜间模式
+      primary: black 
+      accent: teal
+      toggle:
+      icon: material/weather-sunny
+   
 
   features: 
     - navigation.instant #- header.autohide  #自动隐藏

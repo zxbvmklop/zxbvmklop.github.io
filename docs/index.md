@@ -34,6 +34,8 @@ statistics: true
     <font size=3><center>总字数：{{words}} </center></font>
 
 ???+ Warning "<font size=3>施工中！</font>" 
-    <font size=3><center>其他版块还在施工中！</center></font>
-    <font size=3><center>请耐心等待！</center></font>
+    <font color=brown> <font size=3><center>其他版块还在施工中！</center></font>
+
+    <font size=3><center>请耐心等待！</center></font></font>
+
 
