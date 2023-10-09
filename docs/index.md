@@ -13,7 +13,6 @@ statistics: true
 
     <font size=3> `生活记录` 准备写！
     
-    </font><font size=3> `诗词集` 准备写！</font>
 
 !!! success "近期更新！"
     <font size=3>- [更新版块](update/index.md) - 持续更新！</font>
@@ -21,6 +20,8 @@ statistics: true
     <font size=3>- [随笔集](essay/2023.9.24.md) - 死亡是我们所有人的归宿</font>
 
     <font size=3>- [藏书阁](book/治水筌蹄/目录.md) - 治水筌蹄</font>
+
+    <font size=3>- [金名集](poem/小重山/小重山七日寒.md) - 小重山 七日寒</font>
 
 
 !!! tip "<font size=3>未来计划！</font>"

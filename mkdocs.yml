@@ -7,7 +7,7 @@ site_author: zxbvmklop
 theme:
   name: material
  
-  palette:  # 一周七天，六种颜色
+  palette:  # 一周七天，七种颜色
     - scheme: sun
       primary: lime
       accent: brown
@@ -88,6 +88,9 @@ nav:
     - 治水筌蹄:
       - 目录: book/治水筌蹄/目录.md
       - 自叙: book/治水筌蹄/自叙.md
+  - 金名集: 
+    - poem/index.md
+    - 小重山 七日寒: poem/小重山/小重山七日寒.md
 
 
 
