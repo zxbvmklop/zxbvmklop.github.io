@@ -4,7 +4,7 @@ comments: true
 
 ## 网站更新的内容！
 
-### 1.增加一个颜色的小彩蛋！页面主题颜色会随星期的更改而更改！
+### 1.增加一个颜色的小彩蛋！页面主题颜色会随星期的不同而变化！
 
 <font size=3>周一：深橙色！</font><span style="background-color:#E26E0E;padding:2px;margin:2px;color:white;">深橙色</span>
 
