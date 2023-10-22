@@ -23,6 +23,8 @@ statistics: true
 
     <font size=3>- [金名集](poem/小重山/小重山七日寒.md) - 小重山 七日寒</font>
 
+    <font size=3>- [颜色小彩蛋](update/update23.9.27.md) - 主题颜色的小彩蛋</font>
+
 
 !!! tip "<font size=3>未来计划！</font>"
     <font size=3>* 想再编写一个本字查询系统！（感觉这个会很难</font>
