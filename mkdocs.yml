@@ -83,7 +83,8 @@ nav:
       - 2023.9.27更新: update/update23.9.27.md
       - 2023.10.22更新: update/update23.10.22.md
   - 随笔集: 
-      - essay/2023.9.24.md   
+      - essay/2023.9.24.md
+      - essay/2024.2.21.md   
   - 藏书阁: 
     - book/index.md
     - 治水筌蹄:
@@ -96,7 +97,7 @@ nav:
 
 
 
-copyright: Copyright &copy; 2023 zxbvmklop # 左下角的版权声明
+copyright: Copyright &copy; 2024 zxbvmklop # 左下角的版权声明
 
 
 extra:
@@ -204,4 +205,4 @@ extra_javascript:
     # 随着星期几改变主题颜色
   - assets/javascripts/color.js
 extra_css:
-  ##- stylesheets/extra.css
+  - stylesheets/extra.css
