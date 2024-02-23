@@ -4,7 +4,7 @@ statistics: true
 ---
 
 
-# 欢迎来到zxbvmklop的代码空间！! ! 🎫
+# 欢迎来到zxbvmklop的代码空间! ! !🎫
 
 
 !!! abstract "<font size=3>内容摘要！</font>"
@@ -13,9 +13,8 @@ statistics: true
     <font size=4> `论文集` 准备搬运上来！</font>
 
     <font size=4> `生活记录` 准备写！
-    
 
-!!! success "<font size=3>"近期更新！</font>"
+!!! success "<font size=3>近期更新！</font>"
     <font size=4>- [更新版块](update/index.md) - 持续更新！</font>
 
     <font size=4>- [随笔集](essay/2024.2.21.md) - 《骑士学院》测评——在哪天会消失的梦</font>
@@ -41,5 +40,3 @@ statistics: true
     <font color=brown> <font size=4><center>其他版块还在施工中！</center></font>
 
     <font size=4><center>请耐心等待！</center></font></font>
-
-

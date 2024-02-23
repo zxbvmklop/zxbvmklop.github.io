@@ -76,7 +76,9 @@ repo_name: zxbvmklop.github.io # 右上角的名字
 nav:
   - 🏡主页: 
     - index.md
-    - 📋网站更新记录:  
+    - 🤣关于我:
+      - about me/index.md
+    - 📋网站搭建记录:  
       - update/index.md
       - 2023.9.20更新: update/update23.9.20.md
       - 2023.9.25更新: update/update23.9.25.md
@@ -107,10 +109,13 @@ extra:
 
     - icon: fontawesome/brands/github
       link: https://github.com/zxbvmklop
+      name: 我的github网站
     - icon: fontawesome/brands/bilibili
       link: https://space.bilibili.com/26687067?spm_id_from=333.1007.0.0
+      name: 我的bilibili
     - icon: fontawesome/solid/paper-plane
       link: mailto:<zxbvmklop@hotmail.com> #联系方式
+      name: 我的邮箱
 
 
 
@@ -205,5 +210,6 @@ extra_javascript:
   - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js # 支持表格排序
     # 随着星期几改变主题颜色
   - assets/javascripts/color.js
+  - assets/js/baidu.js #百度的访问统计
 extra_css:
   - stylesheets/extra.css
