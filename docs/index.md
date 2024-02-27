@@ -12,9 +12,9 @@ statistics: true
 
     <font size=4> `论文集` 准备搬运上来！</font>
 
-    <font size=4> `生活记录` 准备写！
+    <font size=4> `桌游评测` 准备写！
 
-!!! success "<font size=3>近期更新！</font>"
+!!! success "<font size=3>内容推荐！</font>"
     <font size=4>- [更新版块](update/index.md) - 持续更新！</font>
 
     <font size=4>- [随笔集](essay/2024.2.21.md) - 《骑士学院》测评——在哪天会消失的梦</font>
@@ -27,7 +27,7 @@ statistics: true
 
 
 !!! tip "<font size=3>未来计划！</font>"
-    <font size=4>* 想再编写一个本字查询系统！（感觉这个会很难</font>
+    <font size=4>* 专业课的相关知识可能会考虑搬运过来！</font>
 
     <font size=4>* 其他想到再说吧！</font>
 
