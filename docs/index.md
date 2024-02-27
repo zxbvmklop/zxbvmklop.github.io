@@ -21,7 +21,7 @@ statistics: true
 
     <font size=4>- [藏书阁](book/治水筌蹄/目录.md) - 治水筌蹄</font>
 
-    <font size=4>- [金名集](poem/忆云鹏/忆云鹏.md) - 临江仙 忆云鹏</font>
+    <font size=4>- [金名集](poem/梦里长安/梦里长安.md) - 临江仙 梦里长安</font>
 
     <font size=4>- [颜色小彩蛋](update/update23.9.27.md) - 主题颜色的小彩蛋</font>
 
