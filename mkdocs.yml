@@ -27,7 +27,7 @@ theme:
       primary: pink
       accent: cyan
     - scheme: sat
-      primary: blue grey
+      primary: grey
       accent: yellow
 
  ##    primary: default # 上方的

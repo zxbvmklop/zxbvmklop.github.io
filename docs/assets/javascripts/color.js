@@ -3,7 +3,7 @@ function changeColorByWeekday(){
     // 0-6代表周日到周六
     var day=date.getDay();
     var schemes=new Array("sun","mon","tues","wed","thur","fri","sat",);
-    var colors=new Array("lime","deep orange","indigo","yellow","teal","pink","blue grey");
+    var colors=new Array("lime","deep orange","indigo","yellow","teal","pink","grey");
     var color=new Array("brown","green","orange","amber","red","cyan","yellow")
     if (document.body.getAttribute("data-md-color-scheme") != schemes[day]) {
         document.body.setAttribute("data-md-color-scheme", schemes[day]);
