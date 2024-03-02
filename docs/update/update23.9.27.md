@@ -16,7 +16,7 @@ comments: true
 
 <font size=3>周五：粉色！</font><span style="background-color:#e92063;padding:2px;margin:2px;color:white;">粉色</span>
 
-<font size=3>周六：青色！</font><span style="background-color:#00A6CB;padding:2px;margin:2px;color:white;">青色</span>
+<font size=3>周六：小麦色！</font><span style="background-color:#F5DEB3;padding:2px;margin:2px;color:white;">小麦色</span>
 
 <font size=3>周日：酸橙色！</font><span style="background-color:#BFD833;padding:2px;margin:2px;color:white;">酸橙色</span>
 
