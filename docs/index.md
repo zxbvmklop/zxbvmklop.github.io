@@ -15,7 +15,7 @@ statistics: true
     <font size=4> `桌游评测` 准备写！
 
 !!! success "<font size=3>内容推荐！</font>"
-    <font size=4>- [更新版块](update/index.md) - 持续更新！</font>
+    <font size=4>- [随笔集](essay/2024.3.3.md) - 我与桌游的故事</font>
 
     <font size=4>- [随笔集](essay/2024.2.21.md) - 《骑士学院》测评——在哪天会消失的梦</font>
 
