@@ -10,8 +10,6 @@ statistics: true
 !!! abstract "<font size=3>内容摘要！</font>"
     <font size=4>有一些计划中的东西！</font>
 
-    <font size=4> `论文集` 准备搬运上来！</font>
-
     <font size=4> `桌游评测` 准备写！
 
 !!! success "<font size=3>内容推荐！</font>"
@@ -24,12 +22,16 @@ statistics: true
     <font size=4>- [金名集](poem/梦里长安/梦里长安.md) - 临江仙 梦里长安</font>
 
     <font size=4>- [颜色小彩蛋](update/update23.9.27.md) - 主题颜色的小彩蛋</font>
-
+ 
+    <font size=4>- [专业课](course/index.md) - 古代汉语课程缓慢更新中</font>
 
 !!! tip "<font size=3>未来计划！</font>"
     <font size=4>* 专业课的相关知识可能会考虑搬运过来！</font>
 
     <font size=4>* 其他想到再说吧！</font>
+
+!!! quote "<font size=3>我的朋友们！</font>"    
+    - <font size=4>[咸鱼暄 非常利害的光头好学长（~~不是~~）！](https://xuan-insr.github.io/)</font>
 
 ???+ info inline "<font size=3>字数统计！</font>"
     <font size=4><center>页面数：{{pages}} </center></font>
